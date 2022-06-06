@@ -1,9 +1,9 @@
 ### Olá, eu sou a Camila Almeida 👋
 
-- 💻 Atualmente trabalho como Tecnica em Suporte
+- 💻 Atualmente trabalho como DevOps Analyst I 
 - 📚 Programa Desenvolve - Grupo Boticário
 - 🌱 Trilhando a carreira de DevOps ♾️
-- 😄 Pronome: ela/dela
+- 😄 Pronome: ela/she/ella
 ##
 📢 Nos últimos anos trabalhei como help desk e sempre tive uma vontade imensa de começar a aprofundar no ramo da técnologia e sempre tive dúvidas por onde começar. Depois de algumas pesquisas encontrei a área de DEVOPS e me encantou demais, corri atrás e fui aprovada para o Programa Desenvolve que faço hoje, e a cada dia tenho mais certeza do que quero para o meu futuro! Me encontrei e estou muito animada para trilhar este caminho.
 ##
