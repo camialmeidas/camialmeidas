@@ -1,7 +1,6 @@
 ### Olá, eu sou a Camila Almeida 👋
 
-- 💻 Atualmente trabalho como DevOps Analyst I 
-- 📚 Programa Desenvolve - Grupo Boticário
+- 💻 Atualmente trabalho como Analista DevOps
 - 🌱 Trilhando a carreira de DevOps ♾️
 - 😄 Pronome: ela/she/ella
 ##
@@ -13,10 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camialmeidas&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <img align="center" alt="Cami-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Cami-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" alt="Cami-NGINX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
-  <img align="center" alt="Cami-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Cami-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img align="center" alt="Cami-NGINX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/> <img align="center" alt="Cami-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
   ##
